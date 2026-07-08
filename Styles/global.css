@@ -47,3 +47,20 @@ h1, h2, h3
     font: inherit;
 }
 
+img {
+    max-width: 100%;
+}
+
+
+.container {
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-inline: 32px;
+}
+
+main {
+    padding-top: 40px;
+}
+
+
+
